@@ -250,3 +250,6 @@ You can create "Contracts", which allow functions to modify other function's pri
 
 ## Try it out!
 Download the repo and modify main.rs. You can test out things there. In the future I will make it a library.
+
+## Is this idea original?
+I'm pretty sure some of it is. But if you use this idea anywhere, credit me.
